@@ -1,0 +1,1 @@
+import bootstrap from "../_snowpack/pkg/bootstrap/dist/js/bootstrap.bundle.js";

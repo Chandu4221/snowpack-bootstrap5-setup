@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "bootstrap/dist/js/bootstrap.bundle": "./bootstrap/dist/js/bootstrap.bundle.js"
+  }
+}
